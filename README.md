@@ -7,11 +7,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> **About Me:**
 
-- 🔭 I’m currently working on my **Portfolio** and trying to imporve my **Coading Skills**
+- 🔭 I’m currently working on my **Portfolio** and trying to imporve my **Coding Skills**
 - 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to collaborate on any web development related topics 
+- 👯 I’m looking to collaborate on any **Web development** related topics 
 - 💬 Ask me about **HTML, CSS, Java, Javascript**
-- 📫 How to reach me: nachiket216@gmail.com
+- 📫 How to reach me: **nachiket216@gmail.com**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachiket216&theme=radical&hide_border=true"/>
