@@ -14,7 +14,7 @@
 - 📫 How to reach me: **nachiket216@gmail.com**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachiket216&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachiket216&theme=merko&hide_border=true"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="45"> **Languages & Tools:**
@@ -49,9 +49,9 @@
 
 <p align="center">
   <a href="https://github.com/nachiket216">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nachiket216&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nachiket216&show_icons=true&theme=merko&count_private=true">
   </a>
   <a href="https://github.com/nachiket216/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nachiket216&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nachiket216&layout=compact&theme=merko&langs_count=6" />
   </a>
  </p>
