@@ -1,6 +1,6 @@
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1  > Hello 👋, I'm Nachiket Shrikhande 🚀️🎯️ </h1></summary>
+    <summary><h1> Hello 👋, I'm Nachiket Shrikhande 🚀️🎯️ </h1></summary>
   </ul>
 </div>
 <img align="right" alt="coding" width="340" src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif">
@@ -42,7 +42,7 @@
 <a href="https://nachiketshrikhande.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="nachiketShrikhande" /></a>
 <a href="https://twitter.com/Nachiket216" target="_blank"><img align="center" src="https://img.shields.io/twitter/url?label=Twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2FNachiket216" alt="nachiketShrikhande" /></a>
 <a href="mailto:nachiket216@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="nachiketShrikhande" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nachiket216&label=Visitors&color=0088cc&style=flat-square" alt="nachiketShrikhande" /> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nachiket216&label=Visitors&color=0088cc&style=flat-square" alt="nachiketShrikhande" /> 
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
@@ -52,6 +52,6 @@
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nachiket216&show_icons=true&theme=merko&count_private=true">
   </a>
   <a href="https://github.com/nachiket216/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nachiket216&layout=compact&theme=merko&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nachiket216&layout=compact&theme=merko&langs_count=6"/>
   </a>
  </p>
