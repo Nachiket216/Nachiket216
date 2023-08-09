@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my **Portfolio** and trying to imporve my **Coding Skills**
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on any **Web development** related topics 
-- 💬 Ask me about **HTML, CSS, Java, Javascript**
+- 💬 Ask me about **HTML, CSS, Java, Javascript, React JS**
 - 📫 How to reach me: **nachiket216@gmail.com**
 
 <p align="center">
